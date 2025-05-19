@@ -17,6 +17,7 @@ An Arduino-powered smart house prototype that integrates motion detection, ambie
 9. [How It Works](#how-it-works)
 10. [Project Structure](#project-structure)
 11. [Team & Acknowledgements](#team--acknowledgements)
+12. [License](#license)
 
 ---
 
@@ -161,3 +162,7 @@ smart-house-system/
 * **Thanks To**: Arduino open-source community, mentors, and online references that helped in building and understanding this system.
 
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full terms.
