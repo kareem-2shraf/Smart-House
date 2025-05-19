@@ -67,7 +67,7 @@ Each module works together to simulate a responsive smart environment suitable f
 | ------------------------- | ----------- | ----------------------------------- |
 | PIR Sensor                | Digital 2   | Detects human motion                |
 | LDR (via voltage divider) | Analog A0   | Measures ambient light              |
-| DHT11 Sensor              | Digital 3   | Temperature & humidity readings     |
+| LM35 Sensor               | Digital 3   | Temperature & humidity readings     |
 | Room LED Light            | Digital 5   | Lights up room based on light level |
 | Buzzer                    | Digital 6   | Sounds when motion detected         |
 
