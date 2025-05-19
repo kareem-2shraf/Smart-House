@@ -151,7 +151,7 @@ smart-house-system/
 ├── src/
 │   ├── Smart_House_System.ino
 ├── README.md
-
+└── LICENSE
 ```
 
 ---
